@@ -23,7 +23,7 @@ public class Employee {
 	   generator="native"
    )
     @GenericGenerator( name = "native", strategy = "native" )
-	 
+	//setter and getter
 	private long id;	
 	private String name;
 
